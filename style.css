@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url("sachin.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: auto 100vh;
+    background-attachment: fixed;
+    overflow: hidden
+}
+h1{
+    text-align: center;
+}
+.header{
+    background-color: rgba(100, 148, 237, 0.733);
+    min-height: 25vh;
+    width: 100%;
+    z-index: 10;
+position: fixed;
+top: -1vh;
+
+
+}
+.container{
+    height:75vh;
+    margin-top:25vh; 
+    overflow-y:scroll;
+}
+#profile_img{
+    position: absolute;
+    
+
+}
+.header h1{
+    text-align: center;
+    position: relative;
+    top:64.7px;
+    font-size: 50px;
+}
+.header p{
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+.worldcup{
+    background-color: rgba(21, 134, 142, 0.76);
+    margin: 10px 0;
+
+    
+}
+
+
+.imgone {
+   
+    height:350px;
+    width:231px;
+    margin: 0 auto;
+    
+}
+.imgone img{
+    height:350px;
+    
+
+}
+p{
+    font-size: 28px;
+}
+
+.imgtwo{
+   
+    height: 251px;
+    width: 310px;
+     margin: 0 auto;
+}
+.imgthree{
+    height:350px;
+    width:254px;
+    margin:0 auto;
+}
