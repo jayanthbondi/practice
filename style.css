@@ -47,7 +47,7 @@ top: -1vh;
 }
 .worldcup{
     background-color: rgba(21, 134, 142, 0.76);
-    margin: 10px 0;
+    margin: 5px 0;
 
     
 }
@@ -79,4 +79,25 @@ p{
     height:350px;
     width:254px;
     margin:0 auto;
+}
+.imgfour{
+    height: 350px;
+    width: 355px;
+    margin:0 auto;
+}
+.imgfive{
+    height: 350px;
+    width: 507px;
+    margin: 0 auto;
+}
+.imgsix{
+    height: 397px;
+    width: 594px;
+    margin: 0 auto;
+
+}
+.imgseven{
+    height: 390px;
+    margin: 0 auto;
+    width: 346px;
 }
