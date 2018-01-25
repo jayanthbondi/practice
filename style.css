@@ -58,6 +58,7 @@ top: -1vh;
     height:350px;
     width:231px;
     margin: 0 auto;
+    overflow: hidden;
     
 }
 .imgone img{
@@ -74,32 +75,39 @@ p{
     height: 251px;
     width: 310px;
      margin: 0 auto;
+     overflow: hidden;
 }
 .imgthree{
     height:350px;
     width:254px;
     margin:0 auto;
+    overflow: hidden;
 }
 .imgfour{
     height: 350px;
     width: 355px;
     margin:0 auto;
+    overflow: hidden;
 }
 .imgfive{
     height: 350px;
     width: 507px;
     margin: 0 auto;
+    overflow: hidden;
 }
 .imgsix{
     height: 397px;
     width: 594px;
     margin: 0 auto;
+    overflow: hidden;
+
 
 }
 .imgseven{
     height: 390px;
     margin: 0 auto;
     width: 346px;
+    overflow: hidden;
 }
 .container{
     overflow-x: hidden;
@@ -115,7 +123,8 @@ p{
     }
     .header p{
         top: 30px;
+        font-size: 15px;
     }
-    
+
      
 }
