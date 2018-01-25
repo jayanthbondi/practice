@@ -113,4 +113,5 @@ p{
     .header p{
         top: 30px;
     }
+     overflow-x: hidden;
 }
