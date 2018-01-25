@@ -116,11 +116,11 @@ p{
 @media only screen and (max-width:500px)
 {
     .header{
-        height:18vh;
+        height:15vh;
     }
     .contain{
-        height: 82vh;
-        margin-top: 22vh;
+        height: 85vh;
+        margin-top: 19vh;
         
     }
     p{
