@@ -116,7 +116,7 @@ p{
 @media only screen and (max-width:500px)
 {
     .header{
-        height:20vh;
+        height:16vh;
     }
     .contain{
         height: 80vh;
