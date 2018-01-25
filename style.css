@@ -132,11 +132,19 @@ p{
         margin: 0 auto;
         overflow: hidden;
     }
+    .imgfive img{
+        width: 350px;
+    }
+    
     .imgsix{
         height: 400px;
         width: 350px;
         margin: 0 auto;
         overflow: hidden;
+
+    }
+    .imgsix img{
+        width: 350px;;
     }
 
 
