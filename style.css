@@ -91,13 +91,13 @@ p{
     overflow: hidden;
 }
 .imgfive{
-    height: 350px;
+    height: auto;
     width: 350px;
     margin: 0 auto;
     overflow: hidden;
 }
 .imgsix{
-    height: 397px;
+    height: auto;
     width: 350px;
     margin: 0 auto;
     overflow: hidden;
