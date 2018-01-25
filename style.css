@@ -127,23 +127,25 @@ p{
         font-size: 15px;
     }
     .imgfive{
-        
+        height:300px;
         width: 350px;
         margin: 0 auto;
         overflow: hidden;
     }
     .imgfive img{
+        height:300px;
         width: 350px;
     }
     
     .imgsix{
-        
+        height:300px;
         width: 350px;
         margin: 0 auto;
         overflow: hidden;
 
     }
     .imgsix img{
+        height: 300px;
         width: 350px;;
     }
 
