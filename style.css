@@ -20,7 +20,7 @@ h1{
     width: 100%;
     z-index: 10;
 position: fixed;
-top: -1vh;
+top: 0vh;
 
 
 }
@@ -48,7 +48,7 @@ top: -1vh;
 }
 .worldcup{
     background-color: rgba(21, 134, 142, 0.76);
-    margin: 5px 0;
+    margin: -10px 0;
 
     
 }
@@ -116,12 +116,16 @@ p{
 @media only screen and (max-width:500px)
 {
     .header{
-        height:16vh;
+        height:18vh;
+        
     }
     .contain{
         height: 80vh;
-        margin-top: 22vh;
+        margin-top: 26vh;
         
+    }
+    #one{
+        margin-top:-3vh
     }
     p{
         font-size: 20px;
