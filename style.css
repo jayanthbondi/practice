@@ -24,7 +24,7 @@ top: -1vh;
 
 
 }
-.container{
+.contain{
     height:75vh;
     margin-top:25vh; 
     overflow-y:scroll;
@@ -38,13 +38,13 @@ top: -1vh;
 .header h1{
     text-align: center;
     position: relative;
-    top:64.7px;
+    top:55px;
     font-size: 50px;
 }
 .header p{
     text-align: center;
     position: relative;
-    top: 80px;
+    top: 70px;
 }
 .worldcup{
     background-color: rgba(21, 134, 142, 0.76);
@@ -110,11 +110,18 @@ p{
     width: 346px;
     overflow: hidden;
 }
-.container{
+.contain{
     overflow-x: hidden;
 }
 @media only screen and (max-width:500px)
 {
+    .header{
+        height:18vh;
+    }
+    .contain{
+        height: 82vh;
+        
+    }
     p{
         font-size: 20px;
     }
